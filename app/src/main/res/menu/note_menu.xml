@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title=""
+        android:id="@+id/noteDay"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="@string/returnButton"
+        android:icon="@drawable/ic_keyboard_backspace_black_24dp"
+        android:id="@+id/returnButton"
+        app:showAsAction="ifRoom"
+        android:visible="false"/>
+    <item
+        android:title="@string/doneButton"
+        android:icon="@drawable/ic_done_black_24dp"
+        android:id="@+id/doneButton"
+        app:showAsAction="ifRoom"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/options"
+        android:title="@string/options"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_more_vert_black_24dp">
+        <menu>
+            <item
+                android:id="@+id/delete"
+                android:title="@string/delete"
+                android:icon="@drawable/ic_delete_black_24dp"
+                app:showAsAction="always"/>
+            <item
+                android:id="@+id/checker"
+                android:icon="@drawable/ic_check_box_black_24dp"
+                android:title="@string/check"
+                app:showAsAction="always" />
+        </menu>
+    </item>
+</menu>

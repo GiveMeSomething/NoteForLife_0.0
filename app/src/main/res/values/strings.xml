@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NoteForLife</string>
+    <string name="slash">/</string>
+    <string name="twoDot">:</string>
+    <string name="yearCaps">YEAR</string>
+    <string name="monthCaps">MONTH</string>
+    <string name="dayCaps">DAY</string>
+    <string name="hourCaps">HOUR</string>
+    <string name="minuteCaps">MINUTE</string>
+    <string name="titleNote">Title here</string>
+    <string name="noteArea">Note here</string>
+    <string name="name_noteactivity">Note</string>
+    <string name="options">options</string>
+    <string name="delete">Delete note</string>
+    <string name="check">Finish</string>
+    <string name="returnButton">Return</string>
+    <string name="doneButton">Done</string>
+</resources>
