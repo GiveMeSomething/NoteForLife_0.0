@@ -1,7 +1,5 @@
 # NoteForLife_1.0
 
-This is a README.md file
+This project is still going through a debugging session
 
-DO NOT download this projects unless you're too bad at programming
 
-GLHF
