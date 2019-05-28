@@ -1,5 +1,5 @@
-# NoteForLife_1.0
+# NoteForLife_0.0
 
-This project is still going through a debugging session
+Debugging
 
 
